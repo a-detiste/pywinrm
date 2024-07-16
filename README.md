@@ -4,7 +4,7 @@ It allows you to invoke commands on target Windows machines from any machine
 that can run Python.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/diyan/pywinrm/blob/master/LICENSE)
-[![Test workflow](https://github.com/diyan/pywinrm/workflows/Test%20pywinrm/badge.svg)](https://github.com/diyan/pywinrm/actions/workflows/ci.yml)
+[![Test workflow](https://github.com/diyan/pywinrm/actions/workflows/ci.yml/badge.svg)](https://github.com/diyan/pywinrm/actions/workflows/ci.yml)
 [![Coverage](https://coveralls.io/repos/diyan/pywinrm/badge.svg)](https://coveralls.io/r/diyan/pywinrm)
 [![PyPI](https://img.shields.io/pypi/dm/pywinrm.svg)](https://pypi.python.org/pypi/pywinrm)
 
