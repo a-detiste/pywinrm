@@ -1,8 +1,7 @@
 # coding=utf-8
 import os
 import unittest
-
-import mock
+from unittest import mock
 
 from winrm import transport
 from winrm.exceptions import InvalidCredentialsError, WinRMError

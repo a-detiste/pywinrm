@@ -1,9 +1,9 @@
 # flake8: noqa
 import os
 import uuid
+from unittest.mock import patch
 
 import xmltodict
-from mock import patch
 from pytest import fixture, skip
 
 open_shell_request = """\

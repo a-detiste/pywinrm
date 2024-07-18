@@ -4,6 +4,5 @@ isort == 5.13.2
 mypy == 1.10.0
 pytest
 pytest-cov
-mock
 types-requests
 types-xmltodict
